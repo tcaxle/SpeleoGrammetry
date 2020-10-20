@@ -2,8 +2,8 @@ import numpy as np
 import cv2 as cv
 from matplotlib import pyplot as plt
 MIN_MATCH_COUNT = 10
-img1 = cv.imread('1.png',0)          # queryImage
-img2 = cv.imread('2.png',0) # trainImage
+img1 = cv.imread('6.png',0)          # queryImage
+img2 = cv.imread('5.png',0) # trainImage
 # Initiate SIFT detector
 sift = cv.SIFT_create()
 # find the keypoints and descriptors with SIFT
