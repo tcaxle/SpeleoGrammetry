@@ -1,0 +1,7 @@
+- SLAM: Simultneous localisation and mapping
+- from a video
+- reconstruct the environment and camera pose
+- OPENSSM and COLEMAP (python)
+- Python recommended over cpp
+- "Cython" to compile to C if you want
+- Research SLAM systems - some ML some classical
